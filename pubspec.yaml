@@ -1,10 +1,9 @@
 name: dui_app_updater 
 description: A Flutter plugin for checking app updates and prompting users to update.
-version: 1.0.0
+version: 0.0.1
 homepage: https://github.com/dereking/custom_app_updater
 repository: https://github.com/dereking/custom_app_updater
 issue_tracker: https://github.com/dereking/custom_app_updater/issues
-license: MIT  
 
 environment:
   sdk: ^3.7.2
